@@ -1,0 +1,25 @@
+# Keil build files
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+
+# Keil build output
+MDK-ARM/TEST10/
+
+# Keil user-specific files
+*.uvguix.*
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
